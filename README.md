@@ -57,7 +57,7 @@ You can include several new things in your password policy. My recommendations a
 • Don’t let users include their username, actual name, date of birth and other personal information while creating a password.
 • Train your users to follow these policies to keep their passwords safe.
 Thanking you, 
-Name: Utsav Mehta
+Utsav Mehta
 B.Tech Computer Science and Engineering
 ```
 
@@ -84,6 +84,7 @@ moodie:8d763385e0476ae208f21bc63956f748 - MD5
 nabox:defebde7b6ab6f24d5824682a16c3ae4 - MD5
 bandalls:bdda5f03128bcbdfa78d8934529048cf - MD5
 ```
+
 ```
 Cracked Passwords:
 experthead:e10adc3949ba59abbe56e057f20f883e - 123456
